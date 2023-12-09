@@ -4,11 +4,11 @@
 
 ### Windows
 
-https://github.com/lamualfa/waser-lite/releases/download/2023.12.08.0957/waser-windows.zip
+https://github.com/lamualfa/waser-lite/releases/latest/download/waser-windows.zip
 
 ### Linux
 
-https://github.com/lamualfa/waser-lite/releases/download/2023.12.08.0957/waser-linux.zip
+https://github.com/lamualfa/waser-lite/releases/latest/download/waser-linux.zip
 
 ## Installations
 
